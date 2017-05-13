@@ -34,6 +34,15 @@ Le contenu est structuré en Titres de différents niveaux ce qui permet la gén
 
 On peut enrichir le contenu de liens, images, tableaux, citations, notes de base de page.
 
+.. note:: différents types de notes sont disponibles "attention", "caution", "danger", "error", "hint", "important", "note", "tip", "warning", "admonition"
+.. attention:: Un exemple de note "attention".
+.. caution:: Un exemple de note "caution".
+.. danger:: Un exemple de note "danger".
+.. error:: Un exemple de note "error".
+.. hint:: Un exemple de note "hint".
+.. important:: Un exemple de note "important".
+.. tip:: Un exemple de note "tip".
+
 Techniquement
 ****************
 Les deux solutions sont écrites en langage Python. Sphinx à d'ailleurs été conçu pour la documentation de Python.
