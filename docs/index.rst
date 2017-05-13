@@ -24,7 +24,7 @@ Les deux solutions utilisent un `Langage de balisage léger
 <https://fr.wikipedia.org/wiki/Langage_de_balisage_l%C3%A9ger>`_ 
 pour le contenu.
 
-:Sphinx-doc: `reStructuredText  <https://fr.wikipedia.org/wiki/ReStructuredText>`_ 
+:Sphinx-doc: `ReStructuredText  <https://fr.wikipedia.org/wiki/ReStructuredText>`_ 
 
 :MkDocs: `Markdown <https://fr.wikipedia.org/wiki/Markdown>`_
 
