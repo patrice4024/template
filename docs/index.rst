@@ -62,6 +62,17 @@ On peut enrichir le contenu de liens, images, tableaux, citations, notes de base
 `Lien <https://raw.githubusercontent.com/patrice4024/template/master/docs/index.rst>`_
 vers le code source de cette page
 
+This is an ordinary paragraph.
+
+>>> print 'this is a Doctest block'
+this is a Doctest block
+
+The following is a literal block::
+
+    >>> This is not recognized as a doctest block by
+    reStructuredText.  It *will* be recognized by the doctest
+    module, though!
+
 Techniquement
 ****************
 Les deux solutions sont écrites en langage Python. Sphinx à d'ailleurs été conçu pour la documentation de Python.
