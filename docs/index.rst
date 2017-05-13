@@ -14,6 +14,10 @@ J'ai finalement sélectionné deux solutions :
 
 **Sphinx-doc** http://www.sphinx-doc.org et **MkDocs** http://www.mkdocs.org
 
+:Sphinx-doc: http://www.sphinx-doc.org 
+
+:MkDocs: http://www.mkdocs.org
+
 Elles sont très similaires conceptuellement et techniquement.
 
 Conceptuellement
