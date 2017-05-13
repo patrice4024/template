@@ -62,28 +62,13 @@ On peut enrichir le contenu de liens, images, tableaux, citations, notes de base
 `Lien <https://raw.githubusercontent.com/patrice4024/template/master/docs/index.rst>`_
 vers le code source de cette page
 
-This is an ordinary paragraph.
-
->>> print 'this is a Doctest block'
-this is a Doctest block
-
-The following is a literal block::
-
-    >>> This is not recognized as a doctest block by
-    reStructuredText.  It *will* be recognized by the doctest
-    module, though!
-
 Techniquement
 ****************
-Les deux solutions sont écrites en langage Python. Sphinx à d'ailleurs été conçu pour la documentation de Python.
-
-Elles génèrent un site web statique comprenant un sommaire et une fonctionnalité de recherche.
-
-Elles peuvent être versionnées dans un dépôt Git.
-
-Elles peuvent être déployées et mises à jour automatiquement sur le site https://readthedocs.org comme c'est le cas de ce test utilisant le contenu d'exemple de ReadTheDoc.
-
-Elles peuvent être déployées facilement dans un sous-dossier (réel ou virtuel) de notre application.
+  |Les deux solutions sont écrites en langage Python. Sphinx à d'ailleurs été conçu pour la documentation de Python.
+  |Elles génèrent un site web statique comprenant un sommaire et une fonctionnalité de recherche.
+  |Elles peuvent être versionnées dans un dépôt Git.
+  |Elles peuvent être déployées et mises à jour automatiquement sur le site https://readthedocs.org comme c'est le cas de ce test utilisant le contenu d'exemple de ReadTheDoc.
+  |Elles peuvent être déployées facilement dans un sous-dossier (réel ou virtuel) de notre application.
 
 Exemples de sites utilisant ces solutions :
 *********************************************
