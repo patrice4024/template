@@ -6,7 +6,7 @@
 WIPIMO - Recherche d'une solution pour l'aide en ligne
 ======================================================
 
-J'ai chercher une solution pour rélialier la documentation de l'appli avec si possible la possibilité de générer aussi une version papier.
+UTF-8 J'ai chercher une solution pour rélialier la documentation de l'appli avec si possible la possibilité de générer aussi une version papier.
 
 J'ai privilégié des solutions open source.
 
