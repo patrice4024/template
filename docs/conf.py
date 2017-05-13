@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 #
 # Read the Docs Template documentation build configuration file, created by
 # sphinx-quickstart on Tue Aug 26 14:19:49 2014.
@@ -43,7 +43,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Documentation Wipimo G�rance'
+project = u'Documentation Wipimo Gérance'
 copyright = u'2017, Wipimo'
 
 # The version info for the project you're documenting, acts as replacement for
