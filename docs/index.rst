@@ -43,6 +43,16 @@ On peut enrichir le contenu de liens, images, tableaux, citations, notes de base
 .. important:: Un exemple de note ``important``.
 .. tip:: Un exemple de note ``tip``.
 
+**Un Exemple de tableau**
+
++------------------+------------------+--------------------------+
+| Column One       | Column Two       | Column Three             |
++==================+==================+==========================+
+| First            | Detail           | Detail                   |
++------------------+------------------+--------------------------+
+| Second           | Detail           | Detail                   |
++------------------+------------------+--------------------------+
+
 Techniquement
 ****************
 Les deux solutions sont écrites en langage Python. Sphinx à d'ailleurs été conçu pour la documentation de Python.
