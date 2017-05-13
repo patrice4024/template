@@ -12,8 +12,6 @@ J'ai privilégié des solutions open source.
 
 J'ai finalement sélectionné deux solutions : 
 
-**Sphinx-doc** http://www.sphinx-doc.org et **MkDocs** http://www.mkdocs.org
-
 :Sphinx-doc: http://www.sphinx-doc.org 
 
 :MkDocs: http://www.mkdocs.org
@@ -24,7 +22,11 @@ Conceptuellement
 ****************
 Les deux solutions utilisent un `Langage de balisage léger
 <https://fr.wikipedia.org/wiki/Langage_de_balisage_l%C3%A9ger>`_ 
-pour le contenu. `reStructuredText  <https://fr.wikipedia.org/wiki/ReStructuredText>`_ pour **Sphinx** et `Markdown <https://fr.wikipedia.org/wiki/Markdown>`_ pour **MkDocs**.
+pour le contenu.
+
+:Sphinx-doc: `reStructuredText  <https://fr.wikipedia.org/wiki/ReStructuredText>`_ 
+
+:MkDocs: `Markdown <https://fr.wikipedia.org/wiki/Markdown>`_
 
 Le contenu est ensuite "compilé" aux formats souhaités, site web HTML, fichier PDF, fichier ePub,...
 
