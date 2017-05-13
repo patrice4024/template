@@ -46,6 +46,41 @@ Elles peuvent être déployées et mises à jour automatiquement sur le site htt
 
 Elles peuvent être déployées facilement dans un sous-dossier (réel ou virtuel) de notre application.
 
+Exemples de sites utilisant ces solutions :
+*********************************************
+**Sphinx :**
+""""""""""""""
+Page de sites l'utilisant http://www.sphinx-doc.org/en/stable/examples.html
+
+http://libelemental.org/documentation/dev/index.html (readthedoc theme)
+https://pip.pypa.io/en/latest/ (readthedoc theme)
+
+http://pylangacq.org/ (alabaster theme)
+
+http://pythonhosted.org/pymqi/
+
+http://doc.jsfiddle.net/
+
+https://docs.python.org/3/
+
+http://mapserver.org/
+
+http://docs.ceph.com/docs/master/
+
+**MkDobs :**
+"""""""""""""
+http://www.mkdocs.org/
+
+Autres liens :
+*********************************************
+
+https://www.ibm.com/developerworks/library/os-sphinx-documentation/
+
+https://gist.githubusercontent.com/ukyo/3000457/raw/f1e0ddeb92b585be2c9078b925ea587ab0483b81/Generic%2520reStructuredText.rst
+
+http://deusyss.developpez.com/tutoriels/Python/SphinxDoc/
+
+https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html
 
 Welcome to Read the Docs Template's documentation!
 ==================================================
