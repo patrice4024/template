@@ -59,6 +59,9 @@ On peut enrichir le contenu de liens, images, tableaux, citations, notes de base
 | Second           | Detail           | Detail                   |
 +------------------+------------------+--------------------------+
 
+`Lien <https://raw.githubusercontent.com/patrice4024/template/master/docs/index.rst>`_
+vers le code source de cette page
+
 Techniquement
 ****************
 Les deux solutions sont écrites en langage Python. Sphinx à d'ailleurs été conçu pour la documentation de Python.
