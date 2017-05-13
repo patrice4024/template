@@ -18,6 +18,8 @@ J'ai finalement sélectionné deux solutions :
 
 Elles sont très similaires conceptuellement et techniquement.
 
+Sphinx est plus puissant, mais un peu plus compliqué. Cette doc est réalisée avec Sphinx.
+
 Conceptuellement
 ****************
 Les deux solutions utilisent un `Langage de balisage léger
