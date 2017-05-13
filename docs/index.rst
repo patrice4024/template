@@ -18,15 +18,33 @@ Elles sont très similaires conceptuellement et techniquement.
 
 Conceptuellement
 ****************
-Elles utilisent une `Langage de balisage léger 
-<https://fr.wikipedia.org/wiki/Langage_de_balisage_l%C3%A9ger>`_, `reStructuredText  <https://fr.wikipedia.org/wiki/ReStructuredText>`_ pour **Sphinx** 
-et `Markdown  <https://fr.wikipedia.org/wiki/Markdown>`_ 
-pour **MkDocs**.
+Les deux solutions utilisent un `Langage de balisage léger
+<https://fr.wikipedia.org/wiki/Langage_de_balisage_l%C3%A9ger>`_ 
+pour le contenu. `reStructuredText  <https://fr.wikipedia.org/wiki/ReStructuredText>`_ pour **Sphinx** et `Markdown <https://fr.wikipedia.org/wiki/Markdown>`_ pour **MkDocs**.
+
+Le contenu est ensuite "compilé" aux formats souhaités, site web HTML, fichier PDF, fichier ePub,...
+
+Un projet est constitué :
+
+- d'un ensemble de fichiers ReStrucureText ou Markdown
+- d'un thème d'export HTML contenant un fichier CSS pour la mise en forme.
+- d'un fichier de configuration d'options de génération
+
+Le contenu est structuré en Titres de différents niveaux ce qui permet la génération automatique de sommaires.
+
+On peut enrichir le contenu de liens, images, tableaux, citations, notes de base de page.
 
 Techniquement
 ****************
-Elles sont écrites en language Python.
+Les deux solutions sont écrites en langage Python. Sphinx à d'ailleurs été conçu pour la documentation de Python.
 
+Elles génèrent un site web statique comprenant un sommaire et une fonctionnalité de recherche.
+
+Elles peuvent être versionnées dans un dépôt Git.
+
+Elles peuvent être déployées et mises à jour automatiquement sur le site https://readthedocs.org comme c'est le cas de ce test utilisant le contenu d'exemple de ReadTheDoc.
+
+Elles peuvent être déployées facilement dans un sous-dossier (réel ou virtuel) de notre application.
 
 
 Welcome to Read the Docs Template's documentation!
