@@ -97,8 +97,8 @@ http://docs.ceph.com/docs/master/
 """""""""""""
 http://www.mkdocs.org/
 
-Autres liens :
-*********************************************
+**Autres liens :**
+""""""""""""""""""""
 
 https://www.ibm.com/developerworks/library/os-sphinx-documentation/
 
