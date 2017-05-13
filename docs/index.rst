@@ -49,6 +49,7 @@ On peut enrichir le contenu de liens, images, tableaux, citations, notes de base
 .. error:: Un exemple de note ``error``.
 .. hint:: Un exemple de note ``hint``.
 .. important:: Un exemple de note ``important``.
+.. note:: Un exemple de note ``note``.
 .. tip:: Un exemple de note ``tip``.
 .. warning:: Un exemple de note ``warning``.
 .. admonition:: Un exemple de note ``admonition``.
