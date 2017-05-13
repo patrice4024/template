@@ -43,7 +43,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Documentation Wipimo Gérance'
+project = u'Documentation Wipimo'
 copyright = u'2017, Wipimo'
 
 # The version info for the project you're documenting, acts as replacement for
