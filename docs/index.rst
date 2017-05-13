@@ -52,6 +52,7 @@ Exemples de sites utilisant ces solutions :
 """"""""""""""
 Page de sites l'utilisant http://www.sphinx-doc.org/en/stable/examples.html
 
+https://docs.readthedocs.io/en/latest/ (readthedoc theme)
 http://libelemental.org/documentation/dev/index.html (readthedoc theme)
 https://pip.pypa.io/en/latest/ (readthedoc theme)
 
