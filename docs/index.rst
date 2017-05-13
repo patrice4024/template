@@ -101,6 +101,8 @@ http://docs.ceph.com/docs/master/
 """""""""""""
 http://www.mkdocs.org/
 
+https://www.angular-gantt.com/
+
 **Autres liens :**
 """"""""""""""""""""
 
