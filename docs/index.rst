@@ -18,12 +18,14 @@ Elles sont très similaires conceptuellement et techniquement.
 
 Conceptuellement
 ****************
-
 Elles utilisent une `Langage de balisage léger 
 <https://fr.wikipedia.org/wiki/Langage_de_balisage_l%C3%A9ger>`_, `reStructuredText  <https://fr.wikipedia.org/wiki/ReStructuredText>`_ pour **Sphinx** 
 et `Markdown  <https://fr.wikipedia.org/wiki/Markdown>`_ 
 pour **MkDocs**.
 
+Techniquement
+****************
+Elles sont écrites en language Python.
 
 
 
